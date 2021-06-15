@@ -65,6 +65,10 @@ button::after :hover {
   background: #ccc;
 }
 
+button :hover {
+  background : #CCC;
+}
+
 button:active {
   background: #ccc;
 }
